@@ -5,9 +5,11 @@ tags: [setup,xps13,ubuntu]
 comments: true
 ---
 
-After receiving my brand new XPS-13 with Ubuntu 16.04 the first thing I notice is that the palm rejection feature is not present at all. 
+After receiving my brand new XPS-13 with Ubuntu 16.04 the first thing I
+noticed is that the palm rejection feature is not present at all. 
 
-I will try to describe as best as I can the methods I have tried and whether or not they are successful.
+I will try to describe as best as I can the methods I have tried and whether or not they
+were successful.
 
 * *libinput:*
 
